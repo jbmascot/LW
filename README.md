@@ -1,4 +1,8 @@
 # My job LemonWay webservice challenge
+
+Hi i'm Jonis.
+
+
 Project LemonWayChalenge:
 A Web service SOAP with 2 web methods avail and also the projects Winform and Console which consume this. 
 
