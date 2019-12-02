@@ -1,0 +1,4 @@
+2019-12-02 06:19:01,502 [INFO ] Request Fibonacci : 10
+2019-12-02 06:19:29,824 [INFO ] Response Fibonacci : 55
+2019-12-02 06:19:34,602 [INFO ] Request XmlToJson : gchvjjb
+2019-12-02 06:19:36,414 [INFO ] Response XmlToJson : Bad Xml format
