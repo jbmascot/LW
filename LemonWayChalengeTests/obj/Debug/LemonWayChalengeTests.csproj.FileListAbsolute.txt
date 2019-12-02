@@ -1,0 +1,13 @@
+C:\Users\JS\source\repos\LemonWayChalenge\LemonWayChalengeTests\bin\Debug\LemonWayChalengeTests.dll
+C:\Users\JS\source\repos\LemonWayChalenge\LemonWayChalengeTests\bin\Debug\LemonWayChalengeTests.pdb
+C:\Users\JS\source\repos\LemonWayChalenge\LemonWayChalengeTests\bin\Debug\LemonWayChalenge.dll
+C:\Users\JS\source\repos\LemonWayChalenge\LemonWayChalengeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\JS\source\repos\LemonWayChalenge\LemonWayChalengeTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JS\source\repos\LemonWayChalenge\LemonWayChalengeTests\bin\Debug\LemonWayChalenge.pdb
+C:\Users\JS\source\repos\LemonWayChalenge\LemonWayChalengeTests\bin\Debug\LemonWayChalenge.dll.config
+C:\Users\JS\source\repos\LemonWayChalenge\LemonWayChalengeTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JS\source\repos\LemonWayChalenge\LemonWayChalengeTests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\JS\source\repos\LemonWayChalenge\LemonWayChalengeTests\obj\Debug\LemonWayChalengeTests.csprojAssemblyReference.cache
+C:\Users\JS\source\repos\LemonWayChalenge\LemonWayChalengeTests\obj\Debug\LemonWayChalengeTests.csproj.CopyComplete
+C:\Users\JS\source\repos\LemonWayChalenge\LemonWayChalengeTests\obj\Debug\LemonWayChalengeTests.dll
+C:\Users\JS\source\repos\LemonWayChalenge\LemonWayChalengeTests\obj\Debug\LemonWayChalengeTests.pdb

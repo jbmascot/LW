@@ -1,0 +1,9 @@
+C:\Users\JS\source\repos\LemonWayChalenge\ConsoleLemonWay\bin\Debug\ConsoleLemonWay.exe.config
+C:\Users\JS\source\repos\LemonWayChalenge\ConsoleLemonWay\bin\Debug\ConsoleLemonWay.exe
+C:\Users\JS\source\repos\LemonWayChalenge\ConsoleLemonWay\bin\Debug\ConsoleLemonWay.pdb
+C:\Users\JS\source\repos\LemonWayChalenge\ConsoleLemonWay\obj\Debug\ConsoleLemonWay.csprojAssemblyReference.cache
+C:\Users\JS\source\repos\LemonWayChalenge\ConsoleLemonWay\obj\Debug\ConsoleLemonWay.exe
+C:\Users\JS\source\repos\LemonWayChalenge\ConsoleLemonWay\obj\Debug\ConsoleLemonWay.pdb
+C:\Users\JS\source\repos\LemonWayChalenge\ConsoleLemonWay\bin\Debug\log4net.dll
+C:\Users\JS\source\repos\LemonWayChalenge\ConsoleLemonWay\bin\Debug\log4net.xml
+C:\Users\JS\source\repos\LemonWayChalenge\ConsoleLemonWay\obj\Debug\ConsoleLemonWay.csproj.CopyComplete

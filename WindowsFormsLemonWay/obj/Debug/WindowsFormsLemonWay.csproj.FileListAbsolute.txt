@@ -1,0 +1,13 @@
+C:\Users\JS\source\repos\LemonWayChalenge\WindowsFormsLemonWay\bin\Debug\WindowsFormsLemonWay.exe.config
+C:\Users\JS\source\repos\LemonWayChalenge\WindowsFormsLemonWay\bin\Debug\WindowsFormsLemonWay.exe
+C:\Users\JS\source\repos\LemonWayChalenge\WindowsFormsLemonWay\bin\Debug\WindowsFormsLemonWay.pdb
+C:\Users\JS\source\repos\LemonWayChalenge\WindowsFormsLemonWay\bin\Debug\log4net.dll
+C:\Users\JS\source\repos\LemonWayChalenge\WindowsFormsLemonWay\bin\Debug\log4net.xml
+C:\Users\JS\source\repos\LemonWayChalenge\WindowsFormsLemonWay\obj\Debug\WindowsFormsLemonWay.csprojAssemblyReference.cache
+C:\Users\JS\source\repos\LemonWayChalenge\WindowsFormsLemonWay\obj\Debug\WindowsFormsLemonWay.FormMain.resources
+C:\Users\JS\source\repos\LemonWayChalenge\WindowsFormsLemonWay\obj\Debug\WindowsFormsLemonWay.FormWait.resources
+C:\Users\JS\source\repos\LemonWayChalenge\WindowsFormsLemonWay\obj\Debug\WindowsFormsLemonWay.Properties.Resources.resources
+C:\Users\JS\source\repos\LemonWayChalenge\WindowsFormsLemonWay\obj\Debug\WindowsFormsLemonWay.csproj.GenerateResource.cache
+C:\Users\JS\source\repos\LemonWayChalenge\WindowsFormsLemonWay\obj\Debug\WindowsFormsLemonWay.csproj.CopyComplete
+C:\Users\JS\source\repos\LemonWayChalenge\WindowsFormsLemonWay\obj\Debug\WindowsFormsLemonWay.exe
+C:\Users\JS\source\repos\LemonWayChalenge\WindowsFormsLemonWay\obj\Debug\WindowsFormsLemonWay.pdb
